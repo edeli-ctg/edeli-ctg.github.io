@@ -3,7 +3,7 @@
 Página pública, de solo lectura, con las finanzas del Edificio Elizabeth (Cartagena):
 saldo, recaudo de cuotas y gastos del edificio.
 
-**https://digiwellrg-collab.github.io/edeli-panel/**
+**https://edeli-ctg.github.io/**
 
 - La página no contiene datos: al abrirse los pide a la hoja de cuentas del edificio,
   que solo entrega **totales del edificio**.
